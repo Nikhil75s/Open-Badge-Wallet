@@ -55,3 +55,6 @@ The Open Badge Wallet smart contract has extensive potential for growth and enha
 - **Decentralized Universities**: Support fully digital, blockchain-based educational institutions
 
 The Open Badge Wallet is positioned to become a cornerstone of the Web3 education and professional development ecosystem, transforming how we think about, share, and verify human achievements in the digital age.
+
+Transaction Hash: 0x82a3a4844c3b49d1afecb9881e21ce49ff0b5d1d8e8942ca00d85673b31b98f1
+<img width="1814" height="1069" alt="image" src="https://github.com/user-attachments/assets/f9715e50-2b81-405d-b173-95df2af254a8" />
